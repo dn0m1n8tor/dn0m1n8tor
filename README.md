@@ -20,7 +20,7 @@ I'm a third year pursuing Bachelor's in Computer Science :mortar_board:. I'm a p
 
 ![](https://github-readme-stats.vercel.app/api?username=anubhavsinghhacker&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
-<h3 align="left">Let's Connect <img src="https://raw.githubusercontent.com/Dheerajmadhukar/Dheerajmadhukar/main/img/handshake.gif" height="32px"></h3>
+<h3 align="left">Let's Connect <img src="https://raw.githubusercontent.com/anubhavsinghhacker/anubhavsinghhacker/main/images/handshake.gif" height="32px"></h3>
 <p align="center">
   
 <a href="https://twitter.com/AnubhavSingh_"><img src="https://img.shields.io/badge/-@Anubhav Singh-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
