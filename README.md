@@ -16,6 +16,13 @@
 
 I'm a third year pursuing Bachelor's in Computer Science :mortar_board:. I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:  I love to find :mag: security issues in web applications 🕸️ and contribute to the infosec community in any way I can. I like working in 🐧️ Linux Environment. I always look forward to learn and experiment stuff with like-minded people and expand my spectrum of knowledge 🤓
 
+### :closed_book: Write-ups
+
+[Get a Feel of JWT ( JSON Web Token )](https://anubhav-singh.medium.com/get-a-feel-of-jwt-json-web-token-8ee9c16ce5ce)<br>
+[Attacks on JSON Web Token (JWT)](https://anubhav-singh.medium.com/attacks-on-json-web-token-jwt-278a49a1ad2e)<br>
+[Notification system for your Bug Bounty Automation](https://anubhav-singh.medium.com/notification-system-for-your-bug-bounty-automation-7b13af1b7372)
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![](https://github-readme-stats.vercel.app/api?username=anubhavsinghhacker&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
