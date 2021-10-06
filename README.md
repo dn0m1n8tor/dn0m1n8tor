@@ -6,7 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/anubhavsinghhacker)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anubhavsinghhacker)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=anubhavsinghhacker&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=anubhavsinghhacker&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/anubhavsinghhacker/anubhavsinghhacker?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 
