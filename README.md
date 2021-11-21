@@ -34,7 +34,7 @@ I'm a third year pursuing Bachelor's in Computer Science :mortar_board:. I'm a p
 <a href="https://linkedin.com/in/anubhav-singh-hacker"><img src="https://img.shields.io/badge/-Anubhav%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anubhav.infosec@gmail.com"><img src="https://img.shields.io/badge/-anubhav.infosec@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/happy_a314"><img src="https://img.shields.io/badge/-@happy_a314-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://anubhav-singh.medium.com"><img src="https://img.shields.io/badge/-@anubha.singh-1877F2?style=flat&logo=medium&logoColor=white"/></a>
+<a href="https://anubhav-singh.medium.com"><img src="https://img.shields.io/badge/-@anubhav.singh-1877F2?style=flat&logo=medium&logoColor=white"/></a>
   
 </p>
 
