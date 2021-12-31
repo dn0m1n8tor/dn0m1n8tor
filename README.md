@@ -22,37 +22,38 @@ I go online by the alias @dn0m1n8tor. I'm a third year pursuing Bachelor's in Co
 [Attacks on JSON Web Token (JWT)](https://anubhav-singh.medium.com/attacks-on-json-web-token-jwt-278a49a1ad2e)<br>
 [Notification system for your Bug Bounty Automation](https://anubhav-singh.medium.com/notification-system-for-your-bug-bounty-automation-7b13af1b7372)
 
+### :mag_right: CVE's
+
+ [CVE-2021-43137](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43137) <br>
+ [CVE-2021-43451](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-43451)
+ 
+### :syringe: Exploits published on Exploit-db
+
+https://www.exploit-db.com/exploits/50467 <br>
+https://www.exploit-db.com/exploits/50461
+
+### :microscope: Project
+
+[Project Morya](https://github.com/dn0m1n8tor/project-morya) is just a collection of bash scripts that runs iteratively to carry out various tools and recon process & store output in an organized. Project includes notificartion feature, which gives notification about the output of the tools on your discord/slack/telegram server.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=anubhavsinghhacker&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=dn0m1n8tor&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+ -->
+ 
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=dn0m1n8tor&show_icons=true&theme=dark" width = 400 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dn0m1n8tor&theme=dark&hide_border=true" width = 400 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dn0m1n8tor&theme=dark&hide_border=true" />
+</p>
 
 <h3 align="left">Let's Connect <img src="https://raw.githubusercontent.com/anubhavsinghhacker/anubhavsinghhacker/main/images/handshake.gif" height="32px"></h3>
 <p align="center">
   
 <a href="https://twitter.com/AnubhavSingh_"><img src="https://img.shields.io/badge/-@Anubhav Singh-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/anubhav-singh-hacker"><img src="https://img.shields.io/badge/-Anubhav%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/anubhav14"><img src="https://img.shields.io/badge/-Anubhav%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anubhav.infosec@gmail.com"><img src="https://img.shields.io/badge/-anubhav.infosec@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/happy_a314"><img src="https://img.shields.io/badge/-@happy_a314-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://anubhav-singh.medium.com"><img src="https://img.shields.io/badge/-@anubhav.singh-1877F2?style=flat&logo=medium&logoColor=white"/></a>
   
-</p>
-
-
-
-<!-- ### 🤝🏻 &nbsp;Connect with Me -->
-<!--
-**anubhavsinghhacker/anubhavsinghhacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+ </p>
