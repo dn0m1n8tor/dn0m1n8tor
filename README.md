@@ -1,7 +1,6 @@
 # Hello, This is Anubhav <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
-
 ![image](https://user-images.githubusercontent.com/65735854/134823562-0fc98c3a-3ded-48a4-92c7-df347e93648a.png)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/dn0m1n8tor)
@@ -9,8 +8,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=dn0m1n8tor&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/dn0m1n8tor/dn0m1n8tor?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-
-### Glad to see you here! 🤩 &nbsp;
+### Glad to see you here! :heart_eyes:;
 
 ### 👨🏻‍💻 &nbsp;About Me
 
