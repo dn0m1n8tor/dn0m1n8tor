@@ -14,7 +14,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a third year pursuing Bachelor's in Computer Science :mortar_board:. I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:  I love to find :mag: security issues in web applications 🕸️ and contribute to the infosec community in any way I can. I like working in 🐧️ Linux Environment. I always look forward to learn and experiment stuff with like-minded people and expand my spectrum of knowledge 🤓
+I go online by the alias @dn0m1n8tor. I'm a third year pursuing Bachelor's in Computer Science :mortar_board:. I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:  I love to find :mag: security issues in web applications 🕸️ and contribute to the infosec community in any way I can. I like working in 🐧️ Linux Environment. I always look forward to learn and experiment stuff with like-minded people and expand my spectrum of knowledge 🤓
 
 ### :closed_book: Write-ups
 
