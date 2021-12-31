@@ -8,7 +8,11 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=dn0m1n8tor&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/dn0m1n8tor/dn0m1n8tor?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-### Glad to see you here! :heart_eyes:;
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2330DCCE&lines=Glad+to+see+you+here!%20:)&center=true&size=30">
+  </a>
+</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -32,7 +36,7 @@ https://www.exploit-db.com/exploits/50461
 
 ### :microscope: Project
 
-[Project Morya](https://github.com/dn0m1n8tor/project-morya) is just a collection of bash scripts that runs iteratively to carry out various tools and recon process & store output in an organized. Project includes notificartion feature, which gives notification about the output of the tools on your discord/slack/telegram server.
+[Project Morya](https://github.com/dn0m1n8tor/project-morya) is just a collection of bash scripts that runs iteratively to carry out various tools and recon process & store output in an organized. Project includes notification feature, which gives notification about the output of the tools on your discord/slack/telegram server.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
