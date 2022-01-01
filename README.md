@@ -38,6 +38,10 @@ https://www.exploit-db.com/exploits/50461
 
 [Project Morya](https://github.com/dn0m1n8tor/project-morya) is just a collection of bash scripts that runs iteratively to carry out various tools and recon process & store output in an organized. Project includes notification feature, which gives notification about the output of the tools on your discord/slack/telegram server.
 
+### :pushpin: Current Challenge
+
+[Learn365](https://github.com/dn0m1n8tor/learn365) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life.
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=dn0m1n8tor&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
