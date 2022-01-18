@@ -53,6 +53,8 @@ https://www.exploit-db.com/exploits/50461
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dn0m1n8tor&theme=dark&hide_border=true" />
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dn0m1n8tor) 
+
 <h3 align="left">Let's Connect <img src="https://raw.githubusercontent.com/dn0m1n8tor/dn0m1n8tor/main/images/handshake.gif" height="32px"></h3>
 <p align="center">
   
