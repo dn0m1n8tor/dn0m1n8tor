@@ -20,19 +20,20 @@ I go online by the alias @dn0m1n8tor. I'm a third year pursuing Bachelor's in Co
 
 ### :closed_book: Write-ups
 
-[Get a Feel of JWT ( JSON Web Token )](https://anubhav-singh.medium.com/get-a-feel-of-jwt-json-web-token-8ee9c16ce5ce)<br>
-[Attacks on JSON Web Token (JWT)](https://anubhav-singh.medium.com/attacks-on-json-web-token-jwt-278a49a1ad2e)<br>
-[Notification system for your Bug Bounty Automation](https://anubhav-singh.medium.com/notification-system-for-your-bug-bounty-automation-7b13af1b7372)
+* [Get a Feel of JWT ( JSON Web Token )](https://anubhav-singh.medium.com/get-a-feel-of-jwt-json-web-token-8ee9c16ce5ce)<br>
+* [Attacks on JSON Web Token (JWT)](https://anubhav-singh.medium.com/attacks-on-json-web-token-jwt-278a49a1ad2e)<br>
+* [Notification system for your Bug Bounty Automation](https://anubhav-singh.medium.com/notification-system-for-your-bug-bounty-automation-7b13af1b7372)<br>
+* [A Tale of DOM-based XSS!](https://payatu.com/blog/anubhav.singh/dom-based-xss)
 
 ### :mag_right: CVE's
 
- [CVE-2021-43137](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43137) <br>
- [CVE-2021-43451](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-43451)
+* [CVE-2021-43137](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43137) <br>
+* [CVE-2021-43451](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-43451)
  
 ### :syringe: Exploits published on Exploit-db
 
-https://www.exploit-db.com/exploits/50467 <br>
-https://www.exploit-db.com/exploits/50461
+* https://www.exploit-db.com/exploits/50467 <br>
+* https://www.exploit-db.com/exploits/50461
 
 ### :microscope: Project
 
