@@ -24,6 +24,7 @@ I go online by the alias @dn0m1n8tor. I'm a third year pursuing Bachelor's in Co
 * [Attacks on JSON Web Token (JWT)](https://anubhav-singh.medium.com/attacks-on-json-web-token-jwt-278a49a1ad2e)<br>
 * [Notification system for your Bug Bounty Automation](https://anubhav-singh.medium.com/notification-system-for-your-bug-bounty-automation-7b13af1b7372)<br>
 * [A Tale of DOM-based XSS!](https://payatu.com/blog/anubhav.singh/dom-based-xss)
+* [Understand the Postmessage Vulnerabilities and its implications](https://payatu.com/blog/anubhav.singh/postmessage-vulnerabilities)
 
 ### :mag_right: CVE's
 
