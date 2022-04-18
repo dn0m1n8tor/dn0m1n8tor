@@ -26,6 +26,7 @@ I go online by the alias @dn0m1n8tor. I'm a third year pursuing Bachelor's in Co
 * [A Tale of DOM-based XSS!](https://payatu.com/blog/anubhav.singh/dom-based-xss)
 * [Understand the Postmessage Vulnerabilities and its implications](https://payatu.com/blog/anubhav.singh/postmessage-vulnerabilities)
 * [Developers and Hackers, Understand OAuth and it’s grant type (2022 Guide)](https://payatu.com/blog/anubhav.singh/oauth-grant-types)
+* [How can Hackers Analyze the Attacks on OAuth 2.0?](https://payatu.com/blog/anubhav.singh/oauth-vulnerabilities)
 
 ### :mag_right: CVE's
 
