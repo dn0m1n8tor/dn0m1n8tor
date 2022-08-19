@@ -29,6 +29,10 @@ I go online by the alias @dn0m1n8tor. I'm a third year pursuing Bachelor's in Co
 * [Developers and Hackers, Understand OAuth and it’s grant type (2022 Guide)](https://payatu.com/blog/anubhav.singh/oauth-grant-types)
 * [How can Hackers Analyze the Attacks on OAuth 2.0?](https://payatu.com/blog/anubhav.singh/oauth-vulnerabilities)
 
+### :closed_book: Learning Path
+
+* [Android Pentest 101](https://github.com/dn0m1n8tor/AndroidPentest101)
+
 ### :mag_right: CVE's
 
 * [CVE-2021-43137](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43137) <br>
